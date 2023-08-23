@@ -83,6 +83,6 @@ contract DeFi {
         //uint256  interest =  (emi*12) - borrowedAmount[msg.sender];
         uint256 interest = (emi * 12) - borrowedAmount[msg.sender];
         return interest;   
-  //adding commands her
+  //adding commands here
   }
 }
